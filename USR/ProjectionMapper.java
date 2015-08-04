@@ -1,4 +1,4 @@
-package USR_n;
+package USR;
 
 import org.apache.hadoop.fs.FSDataInputStream;
 
