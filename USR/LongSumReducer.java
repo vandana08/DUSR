@@ -1,4 +1,4 @@
-package USR_n;
+package USR;
 
 import java.io.IOException;
 
